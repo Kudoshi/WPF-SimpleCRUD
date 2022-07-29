@@ -1,5 +1,7 @@
 # WPF-SimpleCRUD
-A simple CRUD that connects to SQL Server. 
+A simple CRUD that connects to SQL Server made for WPF. 
+
+Made as a test to learn WPF
 
 Has two methods of implementation.
 - Simple everything into one file (view + model)
